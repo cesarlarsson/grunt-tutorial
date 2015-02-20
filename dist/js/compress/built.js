@@ -1,0 +1,1 @@
+function add(x,y){return x+y}var variable=1e3,r="asdasdas",xxxx="asdasd";
